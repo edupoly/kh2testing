@@ -1,0 +1,23 @@
+{
+  "name": "kh2testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arth.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edupoly/kh2testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edupoly/kh2testing/issues"
+  },
+  "homepage": "https://github.com/edupoly/kh2testing#readme",
+  "devDependencies": {
+    "jest": "^29.3.0"
+  }
+}
